@@ -26,7 +26,7 @@ body {
 .box:before {
   content: '';
   position: absolute;
-  width: 290px;
+  width: 250px;
   height: 140%;
   background: linear-gradient(#000fff, #ff0000);
   animation: animate 3s linear infinite;
